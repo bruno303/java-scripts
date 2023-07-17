@@ -1,0 +1,1 @@
+./gradle-demo/run_bso.sh
